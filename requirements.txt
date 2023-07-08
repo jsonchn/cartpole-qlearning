@@ -1,0 +1,5 @@
+gymnasium[classic-control]
+matplotlib
+numpy
+scipy
+tqdm
